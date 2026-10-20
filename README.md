@@ -8,7 +8,7 @@
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
 ![Estado](https://img.shields.io/badge/Estado-Finalizado-orange?style=for-the-badge)
 
-**👤 Estudiante:** _(tu nombre)_ &nbsp;|&nbsp; **📚 Materia:** _(materia)_ &nbsp;|&nbsp; **🗓️ Periodo:** _(periodo)_
+**👤 Estudiante:** _Erick Emanuel Andrade Montero_ &nbsp;|&nbsp; **📚 Materia:** _Programación Orientada a Objetos_ &nbsp;|&nbsp; **🗓️ Ciclo:** _(2)_
 
 </div>
 
