@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
-![Estado](https://img.shields.io/badge/Estado-En%20progreso-orange?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Finalizado-orange?style=for-the-badge)
 
 **👤 Estudiante:** _(tu nombre)_ &nbsp;|&nbsp; **📚 Materia:** _(materia)_ &nbsp;|&nbsp; **🗓️ Periodo:** _(periodo)_
 
