@@ -254,8 +254,14 @@ Clases Wrapper (`Integer.parseInt`) · bloque `try-catch`
 
 </div>
 
----
+## 🤖 Uso de Inteligencia Artificial
 
+Para este portafolio utilicé **Claude** (Anthropic), un asistente de IA, como herramienta de apoyo. Me ayudó a:
+
+- Organizar el cuaderno y generar el **esqueleto** del portafolio (estructura por semanas, tablas, secciones y espacios para las evidencias).
+- Recibir orientación y ejemplos de código para los retos, que luego revisé y ejecuté.
+
+Las capturas de pantalla, la ejecución de los programas en HackerRank y las trazas del cuaderno son **evidencia propia**.
 
 
 </div>
